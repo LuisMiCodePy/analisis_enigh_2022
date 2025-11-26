@@ -42,3 +42,5 @@ Los hallazgos clave del análisis de focalización fueron:
 ## 🛠️ Requisitos del Proyecto
 
 Para replicar este análisis, necesitas tener instalados los siguientes paquetes en tu entorno Python:
+
+pandas numpy matplotlib seaborn jupyter (o Visual Studio Code)
